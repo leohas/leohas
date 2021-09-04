@@ -10,11 +10,11 @@ I'm Leonardo, a 24 years old developer who likes to game 🎮. I live in Alagoas
 <br>
 <div>
   <a href="https://github.com/leohas/github-readme-stats">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=leohas&count_private=true&show_icons=true&theme=radical"/>
+    <img height="148" align="center" src="https://github-readme-stats.vercel.app/api?username=leohas&count_private=true&show_icons=true&theme=radical"/>
   </a>
   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
   <a href="https://github.com/leohas/convoychat">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leohas&layout=compact&theme=radical"/>
+    <img height="148" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leohas&layout=compact&theme=radical"/>
   </a>
 </div>
 
