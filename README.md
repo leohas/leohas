@@ -10,11 +10,11 @@ I'm Leonardo, a 24 years old developer who likes to game 🎮. I live in Alagoas
 <br>
 <div>
   <a href="https://github.com/leohas/github-readme-stats">
-    <img height="145" align="center" src="https://github-readme-stats.vercel.app/api?username=leohas&count_private=true&show_icons=true&theme=radical" />
+    <img height="145" align="center" src="https://github-readme-stats.vercel.app/api?username=leohas&count_private=true&show_icons=true&theme=radical"/>
   </a>
   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
   <a href="https://github.com/leohas/convoychat">
-    <img height="145" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leohas&layout=compact&theme=radical" />
+    <img height="145" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leohas&layout=compact&theme=radical"/>
   </a>
 </div>
 
@@ -30,9 +30,9 @@ I'm Leonardo, a 24 years old developer who likes to game 🎮. I live in Alagoas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" align="center"/>
  
 ### Contacts
-<a href="mailto:leohas.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><nobr>
-<a href="https://www.instagram.com/leohas.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/leonardo-henrique-dos-anjos-santos-150a13114/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:leohas.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><nobr>
+<a href="https://www.instagram.com/leohas.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/leonardo-henrique-dos-anjos-santos-150a13114/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 
