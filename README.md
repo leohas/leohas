@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Leonardo, a 24 years old developer who likes to game 🎮. I live in Alagoas, Brazil.
+I'm Leonardo, a 24 years old Software Developer who likes to game 🎮. I live in Alagoas, Brazil.
 
 - 📖 I’m currently learning Context on ReactJS and adventuring into React Native as well.
 - 🙂 Pronouns: he/his.
