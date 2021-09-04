@@ -27,6 +27,7 @@ I'm Leonardo, a 24 years old Software Developer who likes to game 🎮. I live i
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="50" align="center" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="50" align="center"/>
 
+<br>
  
 ### Socials
 <a href="mailto:leohas.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><nobr>
