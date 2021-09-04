@@ -4,7 +4,7 @@ I'm Leonardo, a 24 years old developer who likes to game 🎮. I live in Alagoas
 - 📖 I’m currently learning Context on ReactJS and adventuring into React Native as well.
 - 🙂 Pronouns: he/his.
 - 🎓 I'm currently studying Information Systems on Instituto Federal de Alagoas (IFAL) - Campus Maceió.
-- 💬 Please, contact me <a href='https://www.github.com/leohas/leohas/issues'> here </a> if you have any questions 
+- 💬 Please, contact me <a href='https://www.github.com/leohas/leohas/issues'> here </a> if you have any questions.
 - 😄 Fun fact: I think Nutella is overrated. Wouldn't you agree?
 
 <br>
