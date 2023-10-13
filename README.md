@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Leonardo, a 25 years old Software Developer who likes to game 🎮. I live in Alagoas, Brazil.
+I'm Leonardo, a 26 years old Software Developer who likes to game 🎮. I live in Alagoas, Brazil.
 
 - 📖 I’m currently learning Angular and PHP.
 - 💼 I'm currently working at Mesha Techonology as a Full Stack Software Developer
