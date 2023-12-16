@@ -2,7 +2,7 @@
 I'm Leonardo, a 26 years old Software Developer who likes to game 🎮. I live in Alagoas, Brazil.
 
 - 📖 I’m currently learning Angular and PHP.
-- 💼 I'm currently working at Mesha Techonology as a Full Stack Software Developer
+- 💼 I'm currently working at SENAI Alagoas as a Full Stack Software Developer
 - 🙂 Pronouns: he/his.
 - 🎓 I'm currently studying Information Systems on Instituto Federal de Alagoas (IFAL) - Campus Maceió.
 - 💬 Please, contact me <a href='https://www.github.com/leohas/leohas/issues'> here </a> if you have any questions.
