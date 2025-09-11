@@ -4,7 +4,6 @@ I'm Leonardo, a 28 years old Software Developer who likes to game 🎮. I live i
 - 📖 I’m currently learning Vue
 - 💼 I'm currently working at Centro de Inovação Edge in Maceió, Alagoas
 - 🙂 Pronouns: he/his.
-- 🎓 I'm currently studying Information Systems on Instituto Federal de Alagoas (IFAL) - Campus Maceió.
 - 💬 Please, contact me <a href='https://www.github.com/leohas/leohas/issues'> here </a> if you have any questions.
 - 😄 Fun fact: I think Nutella is overrated. Wouldn't you agree?
 ## 
